@@ -1,7 +1,7 @@
 <?php
 namespace ResourceCatalog\Model;
 
-interface IUserGroup extends IUserGroupIdentify
+interface IUserGroup 
 {
     const ID = array(
         'NULL' => 0,
