@@ -7,6 +7,8 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['NULL'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['FRJQTZZSXFB'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['ZRRSXFB'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['BWMXWCFJLGAJ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['BWMXWCFJLZJWZ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['XZCF'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['SANCTION'],
         IResourceCatalog::TYPE['XZXK'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['LICENSE'],
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL']
