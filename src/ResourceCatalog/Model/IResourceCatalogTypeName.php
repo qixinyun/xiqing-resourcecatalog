@@ -9,6 +9,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZRRSXFB'] => '自然人失信发布',
         IResourceCatalog::TYPE['BWMXWCFJLGAJ'] => '不文明行为处罚记录',
         IResourceCatalog::TYPE['BWMXWCFJLZJWZ'] => '不文明行为处罚记录',
+        IResourceCatalog::TYPE['BWMXWCFJLGAJJT'] => '不文明行为处罚记录(交通出行)',
         IResourceCatalog::TYPE['XZCF'] => '行政处罚公示信息',
         IResourceCatalog::TYPE['XZXK'] => '行政许可公示信息',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录'

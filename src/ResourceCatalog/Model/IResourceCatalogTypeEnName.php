@@ -9,6 +9,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['ZRRSXFB'] => 'zrrsxfb',
         IResourceCatalog::TYPE['BWMXWCFJLGAJ'] => 'bwmxwcfjlgaj',
         IResourceCatalog::TYPE['BWMXWCFJLZJWZ'] => 'bwmxwcfjlzjwz',
+        IResourceCatalog::TYPE['BWMXWCFJLGAJJT'] => 'bwmxwcfjlgajjt',
         IResourceCatalog::TYPE['XZCF'] => 'xzcf',
         IResourceCatalog::TYPE['XZXK'] => 'xzxk',
         IResourceCatalog::TYPE['TEST'] => 'test'
