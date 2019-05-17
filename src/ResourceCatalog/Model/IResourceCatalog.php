@@ -11,8 +11,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'BWMXWCFJLZJWZ' => 4,
         'BWMXWCFJLGAJJT' => 5,
         'BWMXWCFJLMZJWMBZ' => 6,
-        'BWMXWCFJLZJJWMJYLY' => 7,
-        'BWMXWCFJLQWLJWMJYLY' => 8,
+        'BWMXWCFJLZJJWMJY' => 7,
+        'BWMXWCFJLQWLJWMLY' => 8,
         'XZCF' => 48,
         'XZXK' => 49,
         'TEST' => 500          
@@ -24,8 +24,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['GAJ'] => array(self::TYPE['BWMXWCFJLGAJ'], self::TYPE['BWMXWCFJLGAJJT']),
         IUserGroup::ID['ZJWZ'] => array(self::TYPE['BWMXWCFJLZJWZ']),
         IUserGroup::ID['MZJ'] => array(self::TYPE['BWMXWCFJLMZJWMBZ']),
-        IUserGroup::ID['ZJJ'] => array(self::TYPE['BWMXWCFJLZJJWMJYLY']),
-        IUserGroup::ID['QWLJ'] => array(self::TYPE['BWMXWCFJLQWLJWMJYLY']),
+        IUserGroup::ID['ZJJ'] => array(self::TYPE['BWMXWCFJLZJJWMJY']),
+        IUserGroup::ID['QWLJ'] => array(self::TYPE['BWMXWCFJLQWLJWMLY']),
         IUserGroup::ID['RMFY'] => array(self::TYPE['FRJQTZZSXFB'], self::TYPE['ZRRSXFB'])
     );
 
