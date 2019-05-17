@@ -9,7 +9,10 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'ZRRSXFB' => 2,
         'BWMXWCFJLGAJ' => 3,
         'BWMXWCFJLZJWZ' => 4,
-        'BWMXWCFJLGAJJT' =>5,
+        'BWMXWCFJLGAJJT' => 5,
+        'BWMXWCFJLMZJWMBZ' => 6,
+        'BWMXWCFJLZJJWMJYLY' => 7,
+        'BWMXWCFJLQWLJWMJYLY' => 8,
         'XZCF' => 48,
         'XZXK' => 49,
         'TEST' => 500          
@@ -20,6 +23,9 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['FGW'] => array(self::TYPE['TEST']),
         IUserGroup::ID['GAJ'] => array(self::TYPE['BWMXWCFJLGAJ'], self::TYPE['BWMXWCFJLGAJJT']),
         IUserGroup::ID['ZJWZ'] => array(self::TYPE['BWMXWCFJLZJWZ']),
+        IUserGroup::ID['MZJ'] => array(self::TYPE['BWMXWCFJLMZJWMBZ']),
+        IUserGroup::ID['ZJJ'] => array(self::TYPE['BWMXWCFJLZJJWMJYLY']),
+        IUserGroup::ID['QWLJ'] => array(self::TYPE['BWMXWCFJLQWLJWMJYLY']),
         IUserGroup::ID['RMFY'] => array(self::TYPE['FRJQTZZSXFB'], self::TYPE['ZRRSXFB'])
     );
 

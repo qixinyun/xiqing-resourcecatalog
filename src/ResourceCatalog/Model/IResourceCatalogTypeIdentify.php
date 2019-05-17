@@ -10,6 +10,9 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['BWMXWCFJLGAJ'] => 'BWMXWCFJLGAJ',
         IResourceCatalog::TYPE['BWMXWCFJLZJWZ'] => 'BWMXWCFJLZJWZ',
         IResourceCatalog::TYPE['BWMXWCFJLGAJJT'] => 'BWMXWCFJLGAJJT',
+        IResourceCatalog::TYPE['BWMXWCFJLMZJWMBZ'] => 'BWMXWCFJLMZJWMBZ',
+        IResourceCatalog::TYPE['BWMXWCFJLZJJWMJYLY'] => 'BWMXWCFJLZJJWMJYLY',
+        IResourceCatalog::TYPE['BWMXWCFJLQWLJWMJYLY'] => 'BWMXWCFJLQWLJWMJYLY',
         IResourceCatalog::TYPE['XZCF'] => 'XZCF',
         IResourceCatalog::TYPE['XZXK'] => 'XZXK',
         IResourceCatalog::TYPE['TEST'] => 'TEST'
