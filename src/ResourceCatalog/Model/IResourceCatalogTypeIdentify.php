@@ -16,6 +16,9 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => 'TJQYFRGGXYZHPJJG',
         IResourceCatalog::TYPE['QYYCMLXX'] => 'QYYCMLXX',
         IResourceCatalog::TYPE['QIYEJBXX'] => 'QIYEJBXX',
+        IResourceCatalog::TYPE['XBXZCF'] => 'XBXZCF',
+        IResourceCatalog::TYPE['XBXZXK'] => 'XBXZXK',
+        
         IResourceCatalog::TYPE['XZCF'] => 'XZCF',
         IResourceCatalog::TYPE['XZXK'] => 'XZXK',
         IResourceCatalog::TYPE['TEST'] => 'TEST'

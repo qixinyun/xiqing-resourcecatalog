@@ -16,13 +16,15 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'TJQYFRGGXYZHPJJG' => 9,
         'QYYCMLXX' => 10,
         'QIYEJBXX' => 11,
+        'XBXZCF' => 12,
+        'XBXZXK' => 13,
         'XZCF' => 48,
         'XZXK' => 49,
         'TEST' => 500          
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(
-        IUserGroup::ID['NULL'] => array(self::TYPE['NULL'], self::TYPE['XZCF'], self::TYPE['XZXK']),
+        IUserGroup::ID['NULL'] => array(self::TYPE['NULL'], self::TYPE['XBXZCF'], self::TYPE['XBXZXK']),
         IUserGroup::ID['FGW'] => array(self::TYPE['TEST'], self::TYPE['TJQYFRGGXYZHPJJG']),
         IUserGroup::ID['GAJ'] => array(self::TYPE['BWMXWCFJLGAJ'], self::TYPE['BWMXWCFJLGAJJT']),
         IUserGroup::ID['ZJWZ'] => array(self::TYPE['BWMXWCFJLZJWZ']),
