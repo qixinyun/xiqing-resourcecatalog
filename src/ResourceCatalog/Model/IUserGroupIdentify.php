@@ -5,15 +5,15 @@ interface IUserGroupIdentify
 {
     const IDENTIFY = array(
         IUserGroup::ID['NULL'] => 'NULL',
-        IUserGroup::ID['FGW'] => 'QFGW',
-        IUserGroup::ID['GAJ'] => 'QWWXB',
-        IUserGroup::ID['XZSPJ'] => 'RMTZX',
-        IUserGroup::ID['QWLJ'] => 'SWJ',
-        IUserGroup::ID['GTJ'] => 'ZJW',
-        IUserGroup::ID['ZJWZ'] => 'WJW',
-        IUserGroup::ID['ZJJ'] => 'NW',
-        IUserGroup::ID['MZJ'] => 'GZW',
-        IUserGroup::ID['XQZD'] => 'KJJ',
-        IUserGroup::ID['RMFY'] => 'GXJ',
+        IUserGroup::ID['FGW'] => 'FGW',
+        IUserGroup::ID['GAJ'] => 'GAJ',
+        IUserGroup::ID['XZSPJ'] => 'XZSPJ',
+        IUserGroup::ID['QWLJ'] => 'QWLJ',
+        IUserGroup::ID['GTJ'] => 'GTJ',
+        IUserGroup::ID['ZJWZ'] => 'ZJWZ',
+        IUserGroup::ID['ZJJ'] => 'ZJJ',
+        IUserGroup::ID['MZJ'] => 'MZJ',
+        IUserGroup::ID['XQZD'] => 'XQZD',
+        IUserGroup::ID['RMFY'] => 'RMFY',
     );
 }
