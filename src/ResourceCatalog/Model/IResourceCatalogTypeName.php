@@ -42,6 +42,7 @@ IResourceCatalog::TYPE['WSZYJSZGKSWJXX'] => '卫生专业技术资格考试违�
 IResourceCatalog::TYPE['XSZZGLXX'] => '学生资助管理信息',
 IResourceCatalog::TYPE['ZCKJSXX'] => '注册会计师信息',
 IResourceCatalog::TYPE['ZFBZSQRXX'] => '住房保障申请人信息',
+IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
         //@position
     );
 }

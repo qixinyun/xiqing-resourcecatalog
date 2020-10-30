@@ -42,6 +42,7 @@ IResourceCatalog::TYPE['WSZYJSZGKSWJXX'] => 'WSZYJSZGKSWJXX',
 IResourceCatalog::TYPE['XSZZGLXX'] => 'XSZZGLXX',
 IResourceCatalog::TYPE['ZCKJSXX'] => 'ZCKJSXX',
 IResourceCatalog::TYPE['ZFBZSQRXX'] => 'ZFBZSQRXX',
+IResourceCatalog::TYPE['QYHYSJ'] => 'QYHYSJ',
         //@position
     );
 }
