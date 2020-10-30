@@ -21,6 +21,27 @@ interface IResourceCatalogTypeName
         
         IResourceCatalog::TYPE['XZCF'] => '行政处罚公示信息',
         IResourceCatalog::TYPE['XZXK'] => '行政许可公示信息',
-        IResourceCatalog::TYPE['TEST'] => '演示资源目录'
+        IResourceCatalog::TYPE['TEST'] => '演示资源目录',
+IResourceCatalog::TYPE['GWYXX'] => '公务员信息',
+IResourceCatalog::TYPE['GZYXX'] => '公证员信息',
+IResourceCatalog::TYPE['HSZYZGZXX'] => '护士执业资格证信息',
+IResourceCatalog::TYPE['JCFLYZRYXX'] => '基层法律援助人员信息',
+IResourceCatalog::TYPE['JFDXJBXX'] => '奖扶对象基本信息',
+IResourceCatalog::TYPE['JSGRRYXX'] => '教师个人荣誉信息',
+IResourceCatalog::TYPE['JSZGXX'] => '教师资格信息',
+IResourceCatalog::TYPE['JTYS'] => '家庭医生',
+IResourceCatalog::TYPE['JYJGFRXX'] => '教育机构法人信息',
+IResourceCatalog::TYPE['KJCYZGXX'] => '会计从业资格信息',
+IResourceCatalog::TYPE['LSZYZGZXX'] => '律师执业资格证信息',
+IResourceCatalog::TYPE['QJYXXSQJYXXSGBXX'] => '区级优秀学生，区级优秀学生干部信息',
+IResourceCatalog::TYPE['SFJDJGCYRYZGXX'] => '司法鉴定机构从业人员资格信息',
+IResourceCatalog::TYPE['SHJZCYXX'] => '社会救助成员信息',
+IResourceCatalog::TYPE['SHJZRYXX'] => '社会救助人员信息',
+IResourceCatalog::TYPE['TDGJSXX'] => '土地估价师信息',
+IResourceCatalog::TYPE['WSZYJSZGKSWJXX'] => '卫生专业技术资格考试违纪信息',
+IResourceCatalog::TYPE['XSZZGLXX'] => '学生资助管理信息',
+IResourceCatalog::TYPE['ZCKJSXX'] => '注册会计师信息',
+IResourceCatalog::TYPE['ZFBZSQRXX'] => '住房保障申请人信息',
+        //@position
     );
 }

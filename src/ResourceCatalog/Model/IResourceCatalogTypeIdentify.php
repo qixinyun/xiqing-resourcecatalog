@@ -21,6 +21,27 @@ interface IResourceCatalogTypeIdentify
         
         IResourceCatalog::TYPE['XZCF'] => 'XZCF',
         IResourceCatalog::TYPE['XZXK'] => 'XZXK',
-        IResourceCatalog::TYPE['TEST'] => 'TEST'
+        IResourceCatalog::TYPE['TEST'] => 'TEST',
+IResourceCatalog::TYPE['GWYXX'] => 'GWYXX',
+IResourceCatalog::TYPE['GZYXX'] => 'GZYXX',
+IResourceCatalog::TYPE['HSZYZGZXX'] => 'HSZYZGZXX',
+IResourceCatalog::TYPE['JCFLYZRYXX'] => 'JCFLYZRYXX',
+IResourceCatalog::TYPE['JFDXJBXX'] => 'JFDXJBXX',
+IResourceCatalog::TYPE['JSGRRYXX'] => 'JSGRRYXX',
+IResourceCatalog::TYPE['JSZGXX'] => 'JSZGXX',
+IResourceCatalog::TYPE['JTYS'] => 'JTYS',
+IResourceCatalog::TYPE['JYJGFRXX'] => 'JYJGFRXX',
+IResourceCatalog::TYPE['KJCYZGXX'] => 'KJCYZGXX',
+IResourceCatalog::TYPE['LSZYZGZXX'] => 'LSZYZGZXX',
+IResourceCatalog::TYPE['QJYXXSQJYXXSGBXX'] => 'QJYXXSQJYXXSGBXX',
+IResourceCatalog::TYPE['SFJDJGCYRYZGXX'] => 'SFJDJGCYRYZGXX',
+IResourceCatalog::TYPE['SHJZCYXX'] => 'SHJZCYXX',
+IResourceCatalog::TYPE['SHJZRYXX'] => 'SHJZRYXX',
+IResourceCatalog::TYPE['TDGJSXX'] => 'TDGJSXX',
+IResourceCatalog::TYPE['WSZYJSZGKSWJXX'] => 'WSZYJSZGKSWJXX',
+IResourceCatalog::TYPE['XSZZGLXX'] => 'XSZZGLXX',
+IResourceCatalog::TYPE['ZCKJSXX'] => 'ZCKJSXX',
+IResourceCatalog::TYPE['ZFBZSQRXX'] => 'ZFBZSQRXX',
+        //@position
     );
 }
