@@ -126,6 +126,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['QXTB'] => array(),
         IUserGroup::ID['XQQXZSPJ'] => array(),
         IUserGroup::ID['XQQWHHLYJ'] => array(),
+        IUserGroup::ID['XQQXFJYZD'] => array(),
         //@position_usergroup
     );
 
