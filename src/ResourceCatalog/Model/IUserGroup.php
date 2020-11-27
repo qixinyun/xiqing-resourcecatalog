@@ -83,5 +83,6 @@ interface IUserGroup
         'QXTB' => 119,
         'XQQXZSPJ' => 120,
         'XQQWHHLYJ' => 121,
+        'XQQXFJYZD' => 122,
     );
 }
