@@ -40,10 +40,11 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'XSZZGLXX' => 67,
         'ZCKJSXX' => 68,
         'ZFBZSQRXX' => 69,
-        'ZFBZSQRXX' => 69,
         'QYHYSJ' => 70,
-        //@position_type_71
-        'TEST' => 500,
+        'XZJCXX'=>71,
+        'XZQZXX'=>72,
+        //@position_type_73
+        'TEST' => 500, 
     );
 
     const USERGROUP_TYPE_RELATIONSHIP = array(
@@ -126,7 +127,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['QXTB'] => array(),
         IUserGroup::ID['XQQXZSPJ'] => array(),
         IUserGroup::ID['XQQWHHLYJ'] => array(),
-        IUserGroup::ID['XQQXFJYZD'] => array(),
+        IUserGroup::ID['XQQXFJYZD'] => array(self::TYPE['XZQZXX'],self::TYPE['XZJCXX'],),
         //@position_usergroup
     );
 

@@ -43,6 +43,8 @@ IResourceCatalog::TYPE['XSZZGLXX'] => '学生资助管理信息',
 IResourceCatalog::TYPE['ZCKJSXX'] => '注册会计师信息',
 IResourceCatalog::TYPE['ZFBZSQRXX'] => '住房保障申请人信息',
 IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
+IResourceCatalog::TYPE['XZJCXX'] => '行政检查信息',
+IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
         //@position
     );
 }
