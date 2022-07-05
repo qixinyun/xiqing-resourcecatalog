@@ -1,7 +1,7 @@
 <?php
 namespace ResourceCatalog\Model;
 
-interface IUserGroup 
+interface IUserGroup
 {
     const ID = array(
         'NULL' => 0,
@@ -56,7 +56,7 @@ interface IUserGroup
         'QSWJ' => 87,
         'CXDLGS' => 90,
         'XQQZHZFJ' => 92,
-        'GHHZRZYFJ' => 94,
+        'GHJ' => 94,
         'SXXQFZX' => 95,
         'QJRJ' => 97,
         'QZFJ' => 98,
@@ -84,5 +84,8 @@ interface IUserGroup
         'XQQXZSPJ' => 120,
         'XQQWHHLYJ' => 121,
         'XQQXFJYZD' => 122,
+        'CLN' => 123,
+        'TZB' => 124,
+        'JMH' => 125,
     );
 }

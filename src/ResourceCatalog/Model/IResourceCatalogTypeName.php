@@ -18,7 +18,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QIYEJBXX'] => '企业基本信息',
         IResourceCatalog::TYPE['XBXZCF'] => '行政处罚公示信息',
         IResourceCatalog::TYPE['XBXZXK'] => '行政许可公示信息',
-        
         IResourceCatalog::TYPE['XZCF'] => '行政处罚公示信息(旧版)',
         IResourceCatalog::TYPE['XZXK'] => '行政许可公示信息(旧版)',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
@@ -43,11 +42,13 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZCKJSXX'] => '注册会计师信息',
         IResourceCatalog::TYPE['ZFBZSQRXX'] => '住房保障申请人信息',
         IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
-        IResourceCatalog::TYPE['XZJCXX'] => '行政检查信息',
-        IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
-
         IResourceCatalog::TYPE['FRHEIMD'] => '法人黑名单',
         IResourceCatalog::TYPE['FRHONGMD'] => '法人红名单',
+        IResourceCatalog::TYPE['XZCJ'] => '行政裁决信息（国标）',
+        IResourceCatalog::TYPE['XZJDJC'] => '行政监督检查信息（国标）',
+        IResourceCatalog::TYPE['XZJL'] => '行政奖励信息（国标）',
+        IResourceCatalog::TYPE['XZQR'] => '行政确认信息（国标）',
+        IResourceCatalog::TYPE['XZQZ'] => '行政强制信息（国标）',
         //@position
     );
 }
