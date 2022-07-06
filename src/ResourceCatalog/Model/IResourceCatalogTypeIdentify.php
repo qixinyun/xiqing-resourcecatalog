@@ -44,11 +44,11 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['QYHYSJ'] => 'QYHYSJ',
         IResourceCatalog::TYPE['FRHEIMD'] => 'FRHEIMD',
         IResourceCatalog::TYPE['FRHONGMD'] => 'FRHONGMD',
-        IResourceCatalog::TYPE['XZCJ'] => 'xzcj',
-        IResourceCatalog::TYPE['XZJDJC'] => 'xzjdjc',
-        IResourceCatalog::TYPE['XZJL'] => 'xzjl',
-        IResourceCatalog::TYPE['XZQR'] => 'xzqr',
-        IResourceCatalog::TYPE['XZQZ'] => 'xzqz',
+        IResourceCatalog::TYPE['XZCJ'] => 'XZCJ',
+        IResourceCatalog::TYPE['XZJDJC'] => 'XZJDJC',
+        IResourceCatalog::TYPE['XZJL'] => 'XZJL',
+        IResourceCatalog::TYPE['XZQR'] => 'XZQR',
+        IResourceCatalog::TYPE['XZQZ'] => 'XZQZ',
         //@position
     );
 }
